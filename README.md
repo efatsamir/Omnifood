@@ -7,4 +7,4 @@ BootStrap
 Font Awesome
 
 ### `Live Demo`
-[Preview] (https://efatsamir.github.io/Omnifood/)
+[preview](https://efatsamir.github.io/Omnifood/)
